@@ -1,0 +1,6 @@
+name: OvalsAnti32k
+version: 1.0
+main: com.ovalaardvark433.anti32k.OvalsAnti32k
+api-version: 1.13
+description: A plugin to disguise illegal items and enforce their rules in Minecraft
+author: YourName
