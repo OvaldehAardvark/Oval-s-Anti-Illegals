@@ -1,0 +1,5 @@
+name: OvalsAntiIllegals
+version: 1.0
+main: com.ovalaardvark433.anti32k.OvalsAnti32k
+api-version: 1.12
+description: A plugin to turn illegal items to Nemos
