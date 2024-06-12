@@ -17,3 +17,6 @@ Things to add:
 -Player Heads Prevention
 -Spawn-Eggs Prevention
 -All-Enchants Prevention
+
+Self-Building
+Mvn Clean build
