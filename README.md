@@ -3,7 +3,7 @@ An Anti-Illegals plugin Made by OvalAardvark433. This plugin reverts 32ks, Stack
 
 
 
-I started this plugin before I made this github respiratory.
+I started this plugin before I made this github repository.
 
 
 
